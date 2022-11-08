@@ -1,4 +1,4 @@
-date,tocom_price,sicom_price,jpy_price,cny_price,usd_price,crude_oil_price
+date,tocom,sicom,jpy,cny,usd,crude_oil
 2010-12-03,361.7,,,,,
 2010-12-06,366.8,,2.753,,0.0333,89.74
 2010-12-07,368.5,,2.7813,0.2214,0.0333,89.22
