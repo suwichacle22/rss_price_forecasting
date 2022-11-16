@@ -4,7 +4,7 @@ suwicha saeling
 ## Executive Summary
 Data in year 2000 from the National Statistical Office of Thailand had shown number of totaled households in southern region is 2,900,000 and there are 1,000,000 households that have rubber plantation.
 
-Now everyone that owns rubber plantations are facing The Rubber price fluctuation which from various events in the world Almost all rubber plantation owners sold their product to Rubber cooperatives. Rubber cooperatives are also suffering from wrong decision in sold products lower price than it should to be and lost because from the Rubber prices fluctuation it make difficult to speculate.
+Now everyone that owns rubber plantations are facing The Rubber price fluctuation which from various events in the world Almost all rubber plantation owners sold their product to Rubber cooperatives. Rubber cooperatives are also suffering from wrong decision in sold products lower price than it should to be and lost because from Rubber prices fluctuations it make difficult to speculate.
 
 Rubber cooperatives want to change their instinct-decision to data driven-decision and their first step is hiring junior data scientists to develop a model to forecast rubber price for next 1 month to estimate the future trend to increase success rate of speculation.
 
