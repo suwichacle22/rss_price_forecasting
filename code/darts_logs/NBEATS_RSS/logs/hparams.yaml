@@ -43,7 +43,7 @@ num_layers: 4
 num_stacks: 16
 optimizer_cls: !!python/name:torch.optim.adam.Adam ''
 optimizer_kwargs:
-  lr: 0.0001
+  lr: 0.001
 output_chunk_length: 1
 output_dim: 1
 trend_polynomial_degree: 2
